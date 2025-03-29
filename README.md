@@ -1,0 +1,1 @@
+Bash-skriptejä sisältävä repositorio
